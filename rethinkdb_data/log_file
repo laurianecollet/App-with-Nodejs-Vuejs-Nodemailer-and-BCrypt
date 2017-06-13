@@ -1,0 +1,20 @@
+2017-06-13T09:50:22.031440000 40.111628s notice: Recursively removing directory /Users/laurianecollet/Dev/atelier_nodemailer/my-project/rethinkdb_data/tmp
+2017-06-13T09:50:22.037588000 40.117782s notice: Initializing directory /Users/laurianecollet/Dev/atelier_nodemailer/my-project/rethinkdb_data
+2017-06-13T09:50:22.038338000 40.118524s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/laurianecollet/Dev/atelier_nodemailer/my-project/rethinkdb_data' did not already exist or is empty.)
+2017-06-13T09:50:22.038674000 40.118860s notice: Running rethinkdb 2.3.5 (CLANG 7.3.0 (clang-703.0.31))...
+2017-06-13T09:50:22.061323000 40.141510s notice: Running on Darwin 16.5.0 x86_64
+2017-06-13T09:50:22.061430000 40.141616s notice: Loading data from directory /Users/laurianecollet/Dev/atelier_nodemailer/my-project/rethinkdb_data
+2017-06-13T09:50:22.183231000 40.263360s info: Automatically using cache size of 100 MB
+2017-06-13T09:50:22.183278000 40.263407s warn: Cache size does not leave much memory for server and query overhead (available memory: 896 MB).
+2017-06-13T09:50:22.183289000 40.263417s warn: Cache size is very low and may impact performance.
+2017-06-13T09:50:22.185285000 40.265414s notice: Listening for intracluster connections on port 29015
+2017-06-13T09:50:22.200201000 40.280330s notice: Listening for client driver connections on port 28015
+2017-06-13T09:50:22.200402000 40.280531s notice: Listening for administrative HTTP connections on port 8080
+2017-06-13T09:50:22.200406000 40.280534s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2017-06-13T09:50:22.200412000 40.280541s notice: Listening on driver addresses: 127.0.0.1, ::1
+2017-06-13T09:50:22.200415000 40.280543s notice: Listening on http addresses: 127.0.0.1, ::1
+2017-06-13T09:50:22.200421000 40.280549s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-06-13T09:50:22.200428000 40.280556s notice: Server ready, "MacBook_Air_de_Lauriane_local_fp1" df5926fe-bfca-4da6-983a-2953b9e8a901
+2017-06-13T09:51:23.704811000 101.782201s info: Table b79e1022-05a7-4b42-a297-06ae0387fa38: Starting a new Raft election for term 1.
+2017-06-13T09:51:23.706037000 101.783427s info: Table b79e1022-05a7-4b42-a297-06ae0387fa38: Added replica on this server.
+2017-06-13T09:51:23.718319000 101.795709s info: Table b79e1022-05a7-4b42-a297-06ae0387fa38: This server is Raft leader for term 1. Latest log index is 0.
